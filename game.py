@@ -9,7 +9,7 @@ class Game:
   FPS = 30
   DISPLAY_W = 1280
   DISPLAY_H = 720
-  flag_screen = pygame.RESIZABLE
+  flag_screen = pygame.FULLSCREEN
   DEFAULT_BACKGROUND_SIZE = (DISPLAY_W, DISPLAY_H )
   DEFAULT_TUPLE_SIZE = (80, 100 )
   BG_COLOR = (120, 120, 120)
